@@ -1,1 +1,0 @@
-# sbt-github-package
